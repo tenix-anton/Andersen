@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "23mVQIp59w4kLU6h1Pt1Gd8DspmMzx2+Stuz/kBJG3VN4Mv/IKT5QY4Fy4VUX3xcMqJusbDcj1lXrtj9v/roIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Polly\\source\\repos\\KaravikouForAndersen2\\KaravikouForAndersen2\\KaravikouForAndersen2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Polly\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.12\\microsoft.netcore.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\Polly\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.12\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\Polly\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.12\\microsoft.aspnetcore.app.runtime.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

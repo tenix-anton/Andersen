@@ -1,0 +1,13 @@
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.exe
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.deps.json
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.runtimeconfig.json
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.runtimeconfig.dev.json
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.dll
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\bin\Release\netcoreapp3.1\KaravikouForAndersen1.pdb
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.csprojAssemblyReference.cache
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.AssemblyInfoInputs.cache
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.AssemblyInfo.cs
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.csproj.CoreCompileInputs.cache
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.dll
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.pdb
+C:\Users\Polly\source\repos\KaravikouForAndersen1\KaravikouForAndersen1\obj\Release\netcoreapp3.1\KaravikouForAndersen1.genruntimeconfig.cache
